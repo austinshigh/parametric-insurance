@@ -1,9 +1,9 @@
-# Decentralized Parametric Insurance Appliation
+# Decentralized Parametric Insurance Application
 
-Parametric insurance works by triggering a payment to a client upon the occurence of an event.
-This notebook contains a simulation of a parametric insurance application which is hosted on the blockchain.
+Parametric insurance works by triggering a payment to a client upon the occurrence of an event.
+This notebook contains a simulation of a parametric insurance application that is hosted on the blockchain.
 The demand for such a system is driven by the ability to automate the process of filing and adjusting claims.
-This results in lower overhead, which in turn allows insurance firms to reach markets that would otherwise be
+This results in lower overhead, allowing insurance firms to reach markets that would otherwise be
 cost-prohibitive.
 
 'Today, there are over $1 trillion dollars of uninsured crops around the world. To date, insurance companies have largely been unable to service smaller plots of land in developing countries, forcing farmers into unstable livelihoods dependent on rainfall.'\_
